@@ -11,6 +11,7 @@ namespace Concession0309
         static void Main(string[] args)
         {
             Console.WriteLine("Hello");
+            Console.WriteLine("HelloFrom Banch");
             Console.ReadLine();
         }
     }
